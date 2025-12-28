@@ -1,5 +1,5 @@
 ## Maintainers
-
+ 
 * **Deepanshi Dhiman** — GDG UI/UX Circle Manager
 * **Shriya Sandilya** — GDG Technical Lead
 
