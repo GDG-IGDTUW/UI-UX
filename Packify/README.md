@@ -24,7 +24,7 @@ impact of the optimization.
 
 [Packify Figma file](https://www.figma.com/design/e8yibeNvVyIu6aW2M9xGzy/SnowScript-Project?node-id=0-1&t=iT5kP4Q7Dt3Ef6gP-1)
 
-[Google sheet for contributors](https://docs.google.com/spreadsheets/d/1VlzfSjt1UxhUKfdmdP31cyyO6d0X5bl4QGidO-g5OAI/edit?gid=0#gid=0)
+[Google sheet for contributors](https://docs.google.com/spreadsheets/d/1VlzfSjt1UxhUKfdmdP31cyyO6d0X5bl4QGidO-g5OAI/edit?usp=sharing)
 
 ---
 
