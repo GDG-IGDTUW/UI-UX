@@ -1,6 +1,7 @@
 ## Eklavya (एकलव्याय शिक्षां समर्पयामः) – Project Overview
 
 Project Maintainer: Deepanshi Dhiman | Shriya Sandilya
+
 Project Mentor: Sneha Pandey
 
 ## Description
