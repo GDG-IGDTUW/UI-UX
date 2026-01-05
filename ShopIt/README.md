@@ -1,6 +1,7 @@
 # ShopIt (Mobile App UI/UX) – Project Overview
 
 **Project Maintainer:** Deepanshi Dhiman | Shriya Sandilya
+
 **Project Mentor:** Kanishka
 
 ---
