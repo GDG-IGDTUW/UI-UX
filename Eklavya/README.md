@@ -18,7 +18,7 @@ mentor bot in a simple and intuitive interface.
 
 [Eklavya Figma file](https://www.figma.com/design/nOw7SQrg0BOau8yQS67SDV/Eklavya?node-id=0-1&t=lwfr4CMt955apjhs-1)
 
-Google sheet for contributors
+[Google sheet for contributors](https://docs.google.com/spreadsheets/d/1VlzfSjt1UxhUKfdmdP31cyyO6d0X5bl4QGidO-g5OAI/edit?usp=sharing)
 
 ## Current Progress
 
