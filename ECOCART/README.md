@@ -20,7 +20,7 @@ habits in a simple and engaging way.
 
 [EcoCart Figma file](https://www.figma.com/design/4zVWkU5F44EPoFOYeECRhs/ECOCART?node-id=0-1&t=wK5f7Ls9aFDiHnP1-1)
 
-Google sheet for contributors
+[Google sheet for contributors](https://docs.google.com/spreadsheets/d/1VlzfSjt1UxhUKfdmdP31cyyO6d0X5bl4QGidO-g5OAI/edit?usp=sharing)
 
 ---
 
