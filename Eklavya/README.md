@@ -68,33 +68,33 @@ options.
 To improve usability, accessibility, and overall design consistency,
 contributors can work on the following areas:
 
-Navigation & Layout Improvements
+**1. Navigation & Layout Improvements**
 
 Improve navigation consistency across all screens
 
 Simplify user flows for quicker access to key features
 
-Component Standardization
+**2. Component Standardization**
 
 Standardize card components such as notices, workshops, community posts, and
 profile sections
 
 Improve reusability and consistency of UI components
 
-Community & AI Mentor Redesign
+**3.Community & AI Mentor Redesign**
 
 Redesign the Community screen to reduce visual clutter and clarify user
 journeys
 
 Improve the AI chat interface to feel more approachable and supportive
 
-Progress Analytics Enhancement
+**4. Progress Analytics Enhancement**
 
 Simplify progress visualizations for easier interpretation
 
 Improve clarity of charts and performance indicators
 
-Visual & Accessibility Enhancements
+**5. Visual & Accessibility Enhancements**
 
 Improve color balance and text contrast
 
