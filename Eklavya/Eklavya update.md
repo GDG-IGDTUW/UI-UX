@@ -1,3 +1,4 @@
+ISSUE #1
 I have worked on the background image for the home page by making it more inclusive, including students from all backgrounds.
 Moreover, I have worked on the logo of the project. Apart from that, I fixed some common issues like image opacity.
 
