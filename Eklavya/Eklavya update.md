@@ -1,6 +1,5 @@
 ISSUE #1
-I have worked on the background image for the home page by making it more inclusive, including students from all backgrounds.
-Moreover, I have worked on the logo of the project. Apart from that, I fixed some common issues like image opacity.
+
 
 
 <img width="368" height="736" alt="image" src="https://github.com/user-attachments/assets/613ef6ea-56db-46a8-b2f2-387421e67180" />
